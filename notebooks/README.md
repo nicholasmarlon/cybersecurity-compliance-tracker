@@ -1,0 +1,1 @@
+Espaço para análises exploratórias de segurança.
